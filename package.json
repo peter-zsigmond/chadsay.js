@@ -1,0 +1,17 @@
+{
+    "name": "chadsay",
+    "version": "1.0.0",
+    "description": "Less cows, more chads.",
+    "author": "Peter Zsigmond",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/peter-zsigmond/chadsay.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/peter-zsigmond/chadsay.js/issues"
+    },
+    "type": "module",
+    "main": "src/index.js",
+    "files": ["src/"]
+}
