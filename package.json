@@ -12,6 +12,7 @@
         "url": "https://github.com/peter-zsigmond/chadsay.js/issues"
     },
     "type": "module",
+    "files": ["src/"],
     "main": "src/index.js",
     "bin": "src/cli.js"
 }
